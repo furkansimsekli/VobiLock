@@ -84,7 +84,7 @@ const int door = 6;
 
 > If you don't know how to connect relay, here is a basic schematic
 
-![alt text](https://drive.google.com/open?id=1ZiBvvcaMHGpeMY7PvAYoDRn3adDUoyum "Relay Schematic")
+![alt text](![Relay Schematic](https://user-images.githubusercontent.com/51515287/80709961-e2360380-8af6-11ea-87d3-36655709ae19.png) "Relay Schematic")
 
 
 > Note: If you are using Arduino MEGA or Leonardo change these codes. It actually runs UNO too :)
