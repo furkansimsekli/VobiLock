@@ -1,6 +1,6 @@
 ## About Project
 
-VobiLock is the most useful system that I have ever done. When you forget your keys or don't want to enter the pin to unlock your place like house or room..
+When you forget your keys or don't want to enter the pin to unlock your place like house or room..
 
 Just scan your finger and unlock it. 
 
@@ -12,7 +12,7 @@ First of all download the codes from [here](https://github.com/furkansimsekli/Vo
 
 And then you should install libraries as .zip in **Arduino IDE**. To do that, go to **Arduino IDE** Sketch > Include Library > Add .ZIP Library > _(then browse your library)_
 
-Needed Equipments:
+#### Needed Equipments:
 
 1x [Arduino Uno](https://www.amazon.com.tr/Development-Board-ATmega328P-Arduino-kablolu/dp/B06X9CNQ1D/ref=asc_df_B06X9CNQ1D/?tag=googleshoptr-21&linkCode=df0&hvadid=390206884515&hvpos=&hvnetw=g&hvrand=17068721123673591880&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1012788&hvtargid=pla-901712249029&psc=1) 
 (but you can use Mega or Leonardo, you should change your Adafruit Fingerprint Sensor pins)
@@ -84,7 +84,7 @@ const int door = 6;
 
 > If you don't know how to connect relay, here is a basic schematic
 
-![alt text](![Relay Schematic](https://user-images.githubusercontent.com/51515287/80709961-e2360380-8af6-11ea-87d3-36655709ae19.png) "Relay Schematic")
+!![Relay Schematic](https://user-images.githubusercontent.com/51515287/80709961-e2360380-8af6-11ea-87d3-36655709ae19.png)
 
 
 > Note: If you are using Arduino MEGA or Leonardo change these codes. It actually runs UNO too :)
